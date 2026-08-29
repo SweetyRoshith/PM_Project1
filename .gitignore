@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/raw/*.csv
+!data/raw/DescriptionDataCoSupplyChain.csv
+database/*.db
